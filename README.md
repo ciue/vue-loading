@@ -1,6 +1,8 @@
 # vue-loading
 
-> A Vue.js project
+> vue-loading组件  
+
+ [预览](http://ciue.gitee.io/vue-loading/dist/)
 
 ## Build Setup
 
